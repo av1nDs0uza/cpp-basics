@@ -3,9 +3,9 @@
 using namespace std;
 
 int main(){
-    int a= 3;
-    int b=5;
-    cout<<a*b;
+    int a= 6;
+    int b=3;
+    cout<<a << "*"<<b;
 
 
 }
